@@ -22,3 +22,5 @@ Trained Random Forest Classifiers (with cross-validation) per position group to 
 Incorporated manual overrides for special cases (e.g., season-ending injuries).
 
 The final model outputs both a binary health prediction and a risk classification for every player, supporting data-driven forecasting and player health analytics.
+
+Tech Stack: Python, Pandas, Scikit-learn, Random Forest, Feature Engineering, and Cross-Validation.
